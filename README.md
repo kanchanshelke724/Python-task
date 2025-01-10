@@ -20,3 +20,11 @@ Input: "abc"
 Output: Invalid input. Please enter a number. 
 Input: "123" 
 Output: You entered: 123
+
+Task 14:
+Count word frequency in a paragraph. 
+Input: "apple banana apple orange banana banana" 
+Output: 
+apple: 2 
+banana: 3 
+orange: 1
